@@ -1,5 +1,6 @@
 # Codebasics Retrieval Q&A 🌱
-![Uploading Screenshot 2025-01-30 004331.jpg…]()
+![Screenshot 2025-01-30 004331](https://github.com/user-attachments/assets/1e161483-22f5-4391-b69a-447b5b71fbd9)
+
 
 
 ## Overview
